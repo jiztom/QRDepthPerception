@@ -1,0 +1,5 @@
+certifi==2022.6.15
+numpy @ file:///D:/bld/numpy_1657483989399/work
+opencv-python==4.6.0
+pyzbar==0.1.9
+wincertstore==0.2
